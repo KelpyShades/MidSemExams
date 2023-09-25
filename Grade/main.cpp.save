@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{ int n,N;
+ cout <<"Enter the value: ";
+ cin >> n;
+ N=n; 
+    for(i=0;i<=n;i++)
+    {
+        for(i=0;i<)
+    }
+    return 0;
+}
